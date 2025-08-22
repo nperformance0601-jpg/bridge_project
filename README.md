@@ -14,9 +14,10 @@
 ## 사용 데이터셋
 본 프로젝트는 [SDNET2018 데이터셋]을 사용하였습니다. 
 
-- 출처: Dorafshan, S., Thomas, R. J., & Maguire, M. (2018). *SDNET2018: A concrete crack image dataset for machine learning applications*. Oak Ridge National Laboratory.  
+- 저자: 마크 매콰이어, 유타주립대학교 토목환경공학과
 - 설명: 교량 및 콘크리트 구조물에서 수집된 균열(cracked) / 비균열(non-cracked) 이미지 데이터셋
-
+- 제공: University of Central Florida
+  
 ## 라이선스
 "본 프로젝트는 연구 및 학습 목적으로만 사용되며, 상업적 사용은 데이터셋 라이선스에 따릅니다."
 
